@@ -33,7 +33,7 @@ Now, I am eager to bridge my technical expertise with impactful problem-solving,
 
 ### 📞 Contact Me:  
 📧 *Email*: shanikagowda291@gmail.com | skadidalsundresh@hawk.iit.edu  
-🔗 *LinkedIn*: [Shanika Kadidal Sundresh](www.linkedin.com/in/shanikakadidalsundresh)    
+🔗 *LinkedIn*: [Shanika Kadidal Sundresh](https://www.linkedin.com/in/shanikakadidalsundresh)    
 
 
 ---
@@ -81,9 +81,7 @@ Now, I am eager to bridge my technical expertise with impactful problem-solving,
 
 ---
 
-### 🔍 Let's Connect!  
-
-### 🔍 Let's Connect!  
+### 🔍 Let's Connect!   
 
 <a href="https://www.linkedin.com/in/shanikakadidalsundresh">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
