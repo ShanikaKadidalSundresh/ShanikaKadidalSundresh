@@ -18,7 +18,7 @@ Driven by curiosity and innovation, I am a data science enthusiast skilled in Py
 ## 🚀 About Me  
 With a background in Electronics and Communication Engineering and hands-on experience in software development, research, and leadership, I thrive at the intersection of technology, analytics, and security. My journey started with hardware and embedded systems, working on IoT, VLSI, and automation projects. The vast amount of data these systems generate sparked my curiosity for data science, leading me to pursue a **Master of Applied Science in Data Science at the Illinois Institute of Technology**.
 
-Now, I am eager to bridge my technical expertise with impactful problem-solving, leveraging my background in Electronics and Communication Engineering along with my skills in data analytics, AI, and technology-driven solutions.    
+Now, I am eager to bridge my technical expertise with impactful problem-solving, leveraging my skills in data science, AI, and technology-driven solutions.    
 
 
 <!-- ### 💻 All my projects are available on [GitHub](https://github.com/shanika-ks) -->
