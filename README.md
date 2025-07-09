@@ -32,7 +32,7 @@ Now, I am eager to bridge my technical expertise with impactful problem-solving,
 
 
 ### 📞 Contact Me:  
-📧 *Email*: shanikagowda291@gmail.com | skadidalsundresh@hawk.iit.edu  
+📧 *Email*: shanikagowda291@gmail.com | skadidalsundresh@hawk.illinoistech.edu  
 🔗 *LinkedIn*: [Shanika Kadidal Sundresh](https://www.linkedin.com/in/shanikakadidalsundresh)    
 
 
