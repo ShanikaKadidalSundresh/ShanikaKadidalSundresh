@@ -2,8 +2,10 @@
  
 <!--<h3 align="center">I'm Shanika Kadidal Sundresh 👩🏻‍💻⚡️</h3>-->
 
-<h4 align="center">M.A.S. in Data Science | Illinois Institute of Technology</h4>
-<h4 align="center">Data Scientist | Applied Machine Learning | AI &amp; Data-Driven Solutions</h4>
+<h4 align="center" style="line-height: 1.2;">
+  M.A.S. in Data Science | Illinois Institute of Technology<br>
+  Data Scientist | Applied Machine Learning | AI &amp; Data-Driven Solutions
+</h4>
 
 <!--
 <p align="center">
