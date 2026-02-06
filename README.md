@@ -1,8 +1,9 @@
 # Hello, fellow data explorer! 📊👋  
 I'm *Shanika Kadidal Sundresh* 👩🏻‍💻⚡️
 
-Driven by curiosity and innovation, I am a data science enthusiast skilled in Python, SQL, and Machine Learning. Passionate about harnessing data for impactful problem-solving and intelligent decision-making. 
+<h3 align="center">Data Science Graduate | Python, SQL, Machine Learning | Applied Analytics &amp; AI</h3>
 
+<!--
 <p align="center">
   📄 <a href="https://drive.google.com/file/d/1j6BdeyDrMhcYdpNqpu5PA4mMMaSXih1a/view?usp=drive_link">My Resume/CV</a>
 </p>
@@ -14,11 +15,12 @@ Driven by curiosity and innovation, I am a data science enthusiast skilled in Py
     </td>
   </tr>
 </table>
+-->
 
 ## 🚀 About Me  
-With a background in Electronics and Communication Engineering and hands-on experience in software development, research, and leadership, I thrive at the intersection of technology, analytics, and security. My journey started with hardware and embedded systems, working on IoT, VLSI, and automation projects. The vast amount of data these systems generate sparked my curiosity for data science, leading me to pursue a **Master of Applied Science in Data Science at the Illinois Institute of Technology**.
+I am a Data Science graduate student, with a **Master of Applied Science in Data Science from the Illinois Institute of Technology**, with a strong interest in building practical, data-driven solutions that support intelligent decision-making. My work spans machine learning, deep learning, time-series forecasting, data analysis, and end-to-end data pipelines, with a focus on transforming complex datasets into reliable and actionable insights.
 
-Now, I am eager to bridge my technical expertise with impactful problem-solving, leveraging my skills in data science, AI, and technology-driven solutions.    
+Through academic and industry projects, I have gained hands-on experience working with large, real-world datasets, applying data cleaning, feature validation, statistical analysis, and predictive modeling techniques to solve business problems. I enjoy working at the intersection of analytics, machine learning, and engineering, and I am eager to continuously learn, apply my skills, and contribute to teams building scalable, AI-driven, and technology-focused solutions.    
 
 
 <!-- ### 💻 All my projects are available on [GitHub](https://github.com/shanika-ks) -->
