@@ -3,7 +3,7 @@ I'm *Shanika Kadidal Sundresh* 👩🏻‍💻⚡️
 
 <h3 align="center">Data Science Graduate | Python, SQL, Machine Learning | Applied Analytics &amp; AI</h3>
 
-<!--
+
 <p align="center">
   📄 <a href="https://drive.google.com/file/d/1j6BdeyDrMhcYdpNqpu5PA4mMMaSXih1a/view?usp=drive_link">My Resume/CV</a>
 </p>
@@ -15,7 +15,7 @@ I'm *Shanika Kadidal Sundresh* 👩🏻‍💻⚡️
     </td>
   </tr>
 </table>
--->
+
 
 ## 🚀 About Me  
 I am a Data Science graduate student, with a **Master of Applied Science in Data Science from the Illinois Institute of Technology**, with a strong interest in building practical, data-driven solutions that support intelligent decision-making. My work spans machine learning, deep learning, time-series forecasting, data analysis, and end-to-end data pipelines, with a focus on transforming complex datasets into reliable and actionable insights.
