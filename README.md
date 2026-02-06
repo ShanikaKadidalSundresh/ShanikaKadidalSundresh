@@ -1,7 +1,9 @@
-# Hello, fellow data explorer! 📊👋  
-<h3 align="center">I'm Shanika Kadidal Sundresh 👩🏻‍💻⚡️</h3>
+<h1 align="center">Hi, I'm Shanika Kadidal Sundresh 👋</h1>
+ 
+<!--<h3 align="center">I'm Shanika Kadidal Sundresh 👩🏻‍💻⚡️</h3>-->
 
-<h3 align="center">Data Science Graduate | Python, SQL, Machine Learning | Applied Analytics &amp; AI</h3>
+<h4 align="center">M.A.S. in Data Science | Illinois Institute of Technology</h4>
+<h4 align="center">Data Scientist | Applied Machine Learning | AI &amp; Data-Driven Solutions</h4>
 
 <!--
 <p align="center">
@@ -19,9 +21,9 @@
 
 
 ## 🚀 About Me  
-I am a Data Science graduate student, with a **Master of Applied Science in Data Science from the Illinois Institute of Technology**, with a strong interest in building practical, data-driven solutions that support intelligent decision-making. My work spans machine learning, deep learning, time-series forecasting, data analysis, and end-to-end data pipelines, with a focus on transforming complex datasets into reliable and actionable insights.
+I focus on building practical, end-to-end data science solutions that support intelligent decision-making. My work spans machine learning, deep learning, time-series forecasting, data analysis, and data pipelines, with an emphasis on designing reliable and scalable workflows that transform complex datasets into meaningful, actionable insights.
 
-Through academic and industry projects, I have gained hands-on experience working with large, real-world datasets, applying data cleaning, feature validation, statistical analysis, and predictive modeling techniques to solve business problems. I enjoy working at the intersection of analytics, machine learning, and engineering, and I am eager to continuously learn, apply my skills, and contribute to teams building scalable, AI-driven, and technology-focused solutions.    
+Through academic and industry projects, I have gained hands-on experience working with large, real-world datasets, applying data cleaning, feature validation, statistical analysis, and predictive modeling techniques to solve business and operational problems. I enjoy working at the intersection of analytics, machine learning, and engineering, and I am motivated to continuously learn, apply my skills, and contribute to teams building impactful, AI-driven, and data-focused solutions.   
 
 
 <!-- ### 💻 All my projects are available on [GitHub](https://github.com/shanika-ks) -->
@@ -33,11 +35,11 @@ Through academic and industry projects, I have gained hands-on experience workin
 </p> -->
   
 
-
+<!--
 ### 📞 Contact Me:  
 📧 *Email*: shanikagowda291@gmail.com | skadidalsundresh@hawk.illinoistech.edu  
 🔗 *LinkedIn*: [Shanika Kadidal Sundresh](https://www.linkedin.com/in/shanikakadidalsundresh)    
-
+-->
 
 ---
 
@@ -93,6 +95,7 @@ Through academic and industry projects, I have gained hands-on experience workin
 
 ---
 
+<!--
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -101,6 +104,7 @@ Through academic and industry projects, I have gained hands-on experience workin
 </p>
 
 ---
+-->
 
 ### 🔍 Let's Connect!   
 
