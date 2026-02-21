@@ -113,7 +113,7 @@ Through academic and industry projects, I have gained hands-on experience workin
 <a href="https://www.linkedin.com/in/shanikakadidalsundresh">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:shanikagowda291@gmail.com">
+<a href="mailto:skadidalsundresh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
